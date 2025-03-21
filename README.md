@@ -1,4 +1,4 @@
 # Introduction-to-Java
-My notes while learning the basics of programming with Java.
+My studies on learning the basics of programming with Java.
 
 "Algoritma ve Programlamaya Giriş"
