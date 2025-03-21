@@ -1,4 +1,4 @@
 # Introduction-to-Java
-Java ile programlama temelleri öğrenirken aldığım ders notlarım.
+My notes while learning the basics of programming with Java.
 
 "Algoritma ve Programlamaya Giriş"
